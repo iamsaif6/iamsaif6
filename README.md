@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Saif Hasan</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
+![Profile views](https://gpvc.arturio.dev/iamsaif6)  
+
+
 - 🌱 I’m currently learning **JavaScript**
 
 - 👨‍💻 All of my projects are available at [https://iamsaif6.github.io/](https://iamsaif6.github.io/)
@@ -26,4 +29,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iamsaif6&show_icons=true&locale=en&layout=compact" alt="iamsaif6" /></p>
 
 
-![Profile views](https://gpvc.arturio.dev/iamsaif6)  
