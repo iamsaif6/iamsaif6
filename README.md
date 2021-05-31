@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 
-<p align="left"> <a href="https://codepen.io/iamsaif6" target="blank"><img align="center" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen'  alt="iamsaif6" height="30" width="30" /></a>
+<p align="left"> <a href="https://codepen.io/iamsaif6" target="blank"><img align="center" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen'  alt="iamsaif6" height="30" width="30" /></a> &nbsp;&nbsp;
 <a href="https://dev.to/iamsaif6" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="iamsaif6" height="30" width="30" /></a>
 <a href="https://twitter.com/realsaif6" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="iamsaif6" height="30" width="30" /></a>
 <a href="https://linkedin.com/in/iamsaif6" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="iamsaif6" height="30" width="30" /></a>
