@@ -30,7 +30,7 @@
 <h3 align="left">Skills :</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,react,mongodb,tailwind,css,html,bootstrap,nodejs,express" />
+    <img src="https://skillicons.dev/icons?i=js,react,mongodb,tailwind,css,html,bootstrap,nodejs,express,scss,firebase" />
   </a>
 </p>
 <br><br>
