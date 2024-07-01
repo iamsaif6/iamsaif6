@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Saif Hasan</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
-![Profile views](https://gpvc.arturio.dev/iamsaif6)
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **NEXT JS**
 
 - 👨‍💻 All of my projects are available at [https://iamsaif6.github.io/](https://iamsaif6.github.io/)
 
