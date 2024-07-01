@@ -1,5 +1,12 @@
 <h1 align="center">Hi 👋, I'm Saif Hasan</h1>
+
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
+<br>
+
+<p align="center">As a passionate and detail-oriented Front-End Developer with over 2 years of experience, I specialize in building responsive and user-friendly web applications. I have a strong foundation in HTML, CSS, and JavaScript with advanced expertise in frameworks such as React.js , Tailwind CSS .
+I can also work with Node JS , Mongodb , Express JS (MERN) .</p>
+<br>
+<br>
 
 
 - 🌱 I’m currently learning **NEXT JS**
