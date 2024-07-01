@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://iamsaif6.github.io/](https://iamsaif6.github.io/)
 
-- 💬 Ask me about **JavaScript , CSS , Bootstrap , SCSS**
+- 💬 Ask me about **React , Tailwind , MongoDB , Express JS , Node JS , JavaScript , CSS , Bootstrap , SCSS**
 
 - 📫 Reach Me Here **saifhassan399@gmail.com**
 
