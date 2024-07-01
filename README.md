@@ -6,6 +6,9 @@
 <p align="center">As a passionate and detail-oriented Front-End Developer with over 2 years of experience, I specialize in building responsive and user-friendly web applications. I have a strong foundation in HTML, CSS, and JavaScript with advanced expertise in frameworks such as React.js , Tailwind CSS .
 I can also work with Node JS , Mongodb , Express JS (MERN) .</p>
 <br>
+
+<a  target="blank"><img align="center" src="https://i.ibb.co/bvj00DP/hero-copy.png" alt="iamsaif6"  /></a>
+
 <br>
 
 
