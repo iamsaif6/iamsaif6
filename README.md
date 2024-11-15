@@ -44,8 +44,8 @@ I can also work with Node JS , Mongodb , Express JS (MERN) .</p>
   </a>
 </p>
 <br><br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iamsaif6&show_icons=true&locale=en" alt="iamsaif6" /></p>
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iamsaif6&show_icons=true&locale=en" alt="iamsaif6" /></p> -->
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iamsaif6&" alt="iamsaif6" /></p>
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iamsaif6&" alt="iamsaif6" /></p> -->
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iamsaif6&show_icons=true&locale=en&layout=compact" alt="iamsaif6" /></p>
